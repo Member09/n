@@ -1,3 +1,5 @@
+## NON CONVEX PROBLEMS IN ML
+
 Machine Learning methods have made remarkable impact in real world applications. A variety of these applications, including face recognition, machine translation, self-driving cars, search engines, autonomous robots, recommendation systems, computer games, etc., heavily rely on machine learning methods. Yet, theoretically, we do not have a good understanding of these methods.
 
 Most of the problems that we come across in the field of Machine Learning is mainly non-convex. To understand the proper prediction and to have an accurate learning curve formulation we use optimization algorithms. Among these algorithms, the most widely used algorithm is Gradient Descent. But the Gradient Descent is best applied on a convex problem, but still, it does give a base for the formulation of advanced algorithms for different non-linear problems.
