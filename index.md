@@ -17,7 +17,7 @@
 ### NLP/LLM
 
 - [Toxic Comments CLassification]([/llm_journey/SentimentAnalysis/ToxicCommentClassifierBERT.ipynb))
-- [Sentiment Classification using OpenAI](http://example.com/)
+- [Sentiment Classification using OpenAI](https://github.com/Member09/llm_journey/blob/main/SentimentAnalysis/SA_using_OpenAI.ipynb)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
