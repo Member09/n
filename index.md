@@ -18,10 +18,7 @@
 
 - [Toxic Comments CLassification](https://github.com/Member09/llm_journey/blob/main/SentimentAnalysis/ToxicCommentClassifierBERT.ipynb)
 - [Sentiment Classification using OpenAI](https://github.com/Member09/llm_journey/blob/main/SentimentAnalysis/SA_using_OpenAI.ipynb)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- [Text Translation (LLM)](https://github.com/Member09/llm_journey/blob/main/Translation_task/translation.ipynb)
 ---
 
 
