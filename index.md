@@ -2,25 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Deep Learning Projects in Image Classification
 
-[PREDICT CUSTOMER CHURN](/sample_page)
+[Leaf Disease Classification](/DeepLearning_Projects/blob/main/1.%20leaf-disease-classification.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[RECOMMENDER SYSTEM - MOVIEW REVIEWS](/pdf/sample_presentation.pdf)
+[Cat vs Dogs Classification](/DeepLearning_Projects/blob/main/Cats_vs_Dogs.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[SENTIMENT ANALYSIS ON REVIEWS](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### NLP/LLM
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Toxic Comments CLassification]([/llm_journey/SentimentAnalysis/ToxicCommentClassifierBERT.ipynb))
+- [Sentiment Classification using OpenAI](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
