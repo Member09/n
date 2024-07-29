@@ -4,11 +4,11 @@
 
 ### Deep Learning Projects in Image Classification
 
-[Leaf Disease Classification](/DeepLearning_Projects/blob/main/1.%20leaf-disease-classification.ipynb)
+[Leaf Disease Classification](/DeepLearning_Projects/1.%20leaf-disease-classification.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Cat vs Dogs Classification](/DeepLearning_Projects/blob/main/Cats_vs_Dogs.ipynb)
+[Cat vs Dogs Classification](/DeepLearning_Projects/Cats_vs_Dogs.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
