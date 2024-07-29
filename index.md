@@ -19,8 +19,12 @@
 [Toxic Comments CLassification](https://github.com/Member09/llm_journey/blob/main/SentimentAnalysis/ToxicCommentClassifierBERT.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
+
 [Sentiment Classification using OpenAI](https://github.com/Member09/llm_journey/blob/main/SentimentAnalysis/SA_using_OpenAI.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 
 [Text Translation LLM](https://github.com/Member09/llm_journey/blob/main/Translation_task/translation.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -32,5 +36,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
