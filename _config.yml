@@ -3,5 +3,8 @@ logo: "/images/Nidhi_Photo.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Welcome to my portfolio! I am Nidhi Singh, a passionate AI enthusiast dedicated to leveraging the power of data to solve real-world problems. With a strong foundation in computer science and hands-on experience in developing and deploying machine and deep learning models, I thrive on turning complex datasets into actionable insights.
   <br>
+
+show_downloads: true
+theme: jekyll-theme-minimal 
   
 
